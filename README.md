@@ -29,7 +29,7 @@ understanding the OS heart with Linux, the secrets of cybersecurity... Those are
   * Visual Studio Code
   * Atmel Studio
   * Vivado
-  * Kelvin µVision
+  * Keil µVision
 * **Tools & Systems**
   * Git
   * Docker
